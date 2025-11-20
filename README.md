@@ -1,1 +1,1 @@
-# STATICS-Method-Problem1
+# STATICS-Method
